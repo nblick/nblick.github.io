@@ -1,0 +1,59 @@
+/* ── Bigger header logo ── */
+.md-header__button.md-logo img {
+  height: 2rem;
+  width: auto;
+}
+
+/* ── Dark header ── */
+.md-header {
+  background-color: #1e1e24;
+}
+
+.md-tabs {
+  background-color: #1e1e24;
+}
+
+.md-search__form {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* ── Move theme toggle to the right of search ── */
+.md-header__inner {
+  display: flex;
+  align-items: center;
+}
+
+/* Push the palette toggle (color scheme switch) to appear after search */
+[data-md-component="palette"] {
+  order: 1;
+}
+
+/* ── Dark footer (prev/next nav) ── */
+.md-footer {
+  background-color: #2a2a32;
+}
+
+/* ── Dark footer meta (copyright bar) ── */
+.md-footer-meta {
+  background-color: #1e1e24;
+}
+
+.md-footer__link {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.md-footer__link:hover {
+  color: #ffffff;
+}
+
+.md-footer__title {
+  color: #ffffff;
+}
+
+.md-footer__direction {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.md-footer-copyright {
+  color: rgba(255, 255, 255, 0.5);
+}
