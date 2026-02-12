@@ -1,10 +1,10 @@
-name: Deploy docs to GitHub Pages
+name: Deploy Docs to GitHub Pages
 
 on:
   push:
     branches:
-      - master
       - main
+      - master
 
 permissions:
   contents: write
@@ -12,25 +12,22 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install Uv
-        uses: astral-sh/setup-uv@v5
-
-      - name: Install dependencies
+      - name: Install MkDocs
         run: |
-          uv pip install mkdocs mkdocs-material
+          pip install mkdocs mkdocs-material
 
       - name: Configure Git
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-      - name: Build and deploy MkDocs
-        run: uv run mkdocs gh-deploy --force
+      - name: Build and Deploy MkDocs
+        run: mkdocs gh-deploy --force
