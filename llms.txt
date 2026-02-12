@@ -1,0 +1,29 @@
+# nBlick Documentation
+
+> Understand how your brand is mentioned inside AI-generated answers.
+
+nBlick is the AI Brand Visibility platform built for the LLM era. As search shifts from traditional engines to AI assistants like ChatGPT, Gemini, Perplexity, Claude, Mistral, and DeepSeek, nBlick helps brands track, measure, and optimize their presence inside AI-generated responses.
+
+## Docs
+
+- [Welcome](https://docs.trynblick.com/): Overview of nBlick, what it tracks, and how it helps brands measure AI visibility.
+- [Metrics Overview](https://docs.trynblick.com/metrics/metrics-overview/): The three pillars of AI visibility — Brand Sentiment Analysis, Share of Voice, and Brand Keywords — and how nBlick generates and interprets them.
+
+## Key Concepts
+
+- Brand Mention Rate: How often your brand appears in AI-generated answers.
+- Share of AI Voice: Your brand's visibility compared to competitors across LLM responses.
+- Sentiment & Positioning Signals: How positively or negatively your brand is perceived by AI.
+- Category Association Trends: Recurring themes and keywords LLMs associate with your brand.
+- Ranking Presence: Whether your brand is recommended in AI-generated lists and comparisons.
+
+## Tracked LLMs
+
+nBlick continuously monitors responses across ChatGPT, Gemini, Perplexity, Claude, Mistral, DeepSeek, and emerging LLM platforms.
+
+## Links
+
+- Website: https://docs.trynblick.com/
+- GitHub: https://github.com/nblick
+- LinkedIn: https://linkedin.com/company/nblick
+- Crunchbase: https://crunchbase.com/organization/nblick
