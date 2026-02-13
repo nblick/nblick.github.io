@@ -4,13 +4,21 @@
   width: auto;
 }
 
-/* ── Dark header ── */
+/* ── Dark header (desktop + mobile) ── */
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1e1e24;
+  --md-primary-fg-color--light: #2a2a32;
+  --md-primary-fg-color--dark: #16161b;
+}
+
 .md-header {
-  background-color: #1e1e24;
+  background-color: #1e1e24 !important;
 }
 
 .md-tabs {
-  background-color: #1e1e24;
+  background-color: #1e1e24 !important;
 }
 
 .md-search__form {
