@@ -22,7 +22,7 @@ Site will be available at [http://localhost:8000](http://localhost:8000) with li
 
 ## Deployment
 
-The site is automatically deployed to GitHub Pages on every push to `main` or `master` via GitHub Actions.
+The site is automatically deployed to GitHub Pages on every push to `main` via GitHub Actions.
 
 ## Contributing
 
