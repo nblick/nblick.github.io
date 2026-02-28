@@ -69,3 +69,5 @@ nav:
       - Prompts Overview: personas/personas-overview.md
   - Metrics:
       - Metrics Overview: metrics/metrics-overview.md
+  - Content Creation:
+      - Content Generation: content creation/content-generation.md
