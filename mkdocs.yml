@@ -65,5 +65,7 @@ extra_css:
 
 nav:
   - Welcome: index.md
+  - Personas:
+      - Prompts Overview: personas/personas-overview.md
   - Metrics:
       - Metrics Overview: metrics/metrics-overview.md
