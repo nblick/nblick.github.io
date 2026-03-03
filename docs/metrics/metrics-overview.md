@@ -1,52 +1,50 @@
 # Metrics Overview
 
-Get a clear view of the key metrics that guide your AI visibility strategy. nBlick helps brands understand how they are seen and mentioned by LLMs across the AI landscape.
+nBlick gives you a simple way to understand how your brand appears inside AI models. These metrics show how often you are mentioned, how you are described, and how AI feels about your brand.
 
 ## The Three Pillars of AI Visibility
 
-nBlick tracks three fundamental dimensions of your brand's presence inside AI responses:
+nBlick tracks three core signals that shape your brand’s presence in AI responses.
 
 ### Brand Sentiment Analysis
 
-**The overall perception of your brand as reflected by AI.**
+**How positive or negative AI models feel about your brand.**  
+The sentiment score goes from **0% (very negative)** to **100% (excellent)**. It shows the general tone AI uses when talking about your brand.
 
-The sentiment score reflects the overall brand perception. A score of 0% indicates a generally negative perception, while a score of 100% represents an excellent perception.
+
 
 ### Share of Voice
 
-**The ratios of mentions of your brand and its products on common queries to the LLM.**
-
-Share of Voice measures how often your brand is mentioned relative to competitors across AI-generated responses. Toggle between product-specific and aggregated brand views to understand your presence at different levels.
+**How often your brand appears compared to others.**  
+Share of Voice measures the ratio of mentions of your brand and products in AI answers. You can switch between **product-level** and **brand-level** views to see where you stand.
 
 ### Brand Keywords
 
-**The top 10 most frequently associated words, phrases, and topics linked to your brand.**
+**The top words and themes AI links to your brand.**  
+These keywords show the ideas, values, and topics most often connected to your brand: both positive and negative.
 
-These keywords represent recurring themes that LLMs commonly connect with your brand, focusing on both positive and negative associations that reflect the brand's values and customer perception.
+## How nBlick Builds These Metrics
 
-## How nBlick Metrics Are Generated
+> nBlick collects fresh data every day from all tracked AI models. Because AI answers can change, we study patterns over time to give stable, meaningful results.
 
-!!! info "Continuous Data Collection"
-    nBlick runs queries across all tracked LLMs daily. Since AI responses can vary, we aggregate and analyze data over time to generate meaningful metrics.
+nBlick uses three main data sources:
 
-Metrics come from multiple sources:
+- **AI Responses** : Direct answers to brand-related prompts  
+- **Referenced Sources** : Articles, websites, and documents cited by AI  
+- **Trend Analysis** : Patterns across days, weeks, or custom time ranges  
 
-- **AI Responses** — Individual answers to brand-related prompts
-- **Referenced Sources** — Articles, websites, and documents that AI cites
-- **Trend Analysis** — Patterns observed across configurable time periods
+## How to Read Your Metrics
 
-## Interpreting Your Metrics
+| Metric | Positive Signal | Warning Sign |
+|--------|-----------------|--------------|
+| **Brand Sentiment** | Score rising or close to 100% | Score dropping or staying low |
+| **Share of Voice** | More mentions over time | Fewer mentions or competitor growth |
+| **Brand Keywords** | Strong, on-brand themes | Negative or off-brand themes |
 
-| Metric                        | Positive Signal                              | Warning Sign                                  |
-|-------------------------------|----------------------------------------------|-----------------------------------------------|
-| **Brand Sentiment Analysis**  | High sentiment score (closer to 100%)        | Declining score or persistently low percentage |
-| **Share of Voice**            | Steady or growing mention ratios             | Decreasing visibility or competitor growth     |
-| **Brand Keywords**            | Positive, relevant keyword associations      | Negative or off-brand keyword trends           |
+These signals help you understand where your brand is strong and where it may need attention.
 
-## Cross-LLM Insights
+## Insights Across Different AI Models
 
-Different AI models may present your brand differently — this is normal, as each LLM has unique training data and response behavior.
+Each AI model has its own training data and behavior. This means your brand may look slightly different from one model to another.
 
-!!! tip "Compare Across Models"
-    Compare across models to discover where your brand is strongest and identify opportunities for improvement.
-
+> Compare models to see where your brand performs best and where you can improve.
