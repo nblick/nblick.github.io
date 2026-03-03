@@ -1,58 +1,109 @@
 # Content Generation
 
-The **Content Generation** feature helps you make long articles in nBlick. You pick a category, choose one or more prompts, and set the language and length. You can also add extra details. Then nBlick writes the article for you.
+The **Content Generation** tool helps you create ready-to-publish articles in minutes.
 
-> 💡 The article is made from the prompts and settings you choose. Use the category and extra information to control what the article is about and how it sounds.
+These articles are designed to improve how often your brand appears in AI answers (such as ChatGPT, Gemini, and other AI search tools).
 
-## Category
+## How It Works
 
-You must pick a **category** first. A category is like a topic. It filters the list so you only see prompts that fit that topic.
+The process is simple:
+
+1. Pick a category  
+2. Choose one or more prompts  
+3. Configure your content settings  
+4. Add or generate a title  
+5. Click **Generate**
+
+nBlick writes the article for you.
+
+> 💡 The article is created based on the prompts and settings you choose.  
+> The better your inputs, the better the final result.
+
+## 1. Category
+
+You must choose a **category** first.
+
+A category represents the main topic of your article.  
+It filters the prompts so you only see the ones related to that topic.
+
+Categories are imported from the ones selected during your analysis creation.
+
+### Field Reference
 
 | Field | Description |
 |-------|-------------|
-| **Category** | Pick one category from the list. You have to do this step. It decides which prompts you see next. |
+| **Category** | Select one category from the list. This controls which prompts appear in the next step. |
 
-After you pick a category, the list of prompts updates. You will only see prompts for that category.
+Once a category is selected, the prompt list updates automatically.
 
-## Prompts
+## 2. Prompts
 
-**Prompts** are the main ideas for your article. Each prompt is one idea or question that will show up in the article.
+**Prompts** define the main ideas of your article.
+
+Each prompt represents a question or topic that users may ask AI systems.
+
+### Field Reference
 
 | Field | Description |
 |-------|-------------|
-| **Prompts** | Pick one or more prompts. The list is empty until you choose a category. You will see *"Please select a category first to view available prompts."* until then. |
+| **Prompts** | Select one or more prompts. The list remains empty until a category is selected. |
 
-You can pick more than one prompt. The article will then cover all of those ideas.
+If no category is selected, you will see:
 
-## Content Settings
+> "Please select a category first to view available prompts."
 
-These settings tell nBlick how to write the article: where it will be used, what language, how long, and any extra instructions.
+You may select multiple prompts.
+
+The generated article will address all selected prompts and aim to improve visibility across those topics.
+
+## 3. Settings
+
+These settings control how the article is written.
+
+### Available Settings
 
 | Setting | Description |
-|---------|-------------|
-| **Platforms** *(optional)* | Where the article will be used (for example **Google**). Use this when you want the article to match a certain place. |
-| **Language of the final article** | The language of the article (for example **English**). |
-| **Word Range** | How long the article should be (for example **1500–2000** words). Using the recommended range keeps the article at a good length. |
-| **Additional Information** *(optional)* | A box where you can type anything extra. You can add rules, links, sources, or other details that should affect the article. |
+|----------|-------------|
+| **Language** | Select the language of the final article (e.g., English, French, Spanish). |
+| **Word Range** | Define the article length (e.g., 1500–2000 words). The recommended range is optimized for AI visibility. |
+| **Additional Information** *(optional)* | Provide extra instructions such as tone, audience, formatting rules, internal links, or references. |
 
-Change these settings each time you generate an article so they match what you want.
+### About Article Length
 
-## Article Title
+Longer, well-structured articles (within the recommended range) typically perform better in AI search because they cover topics in greater depth.
 
-You can set the title of the article in two ways:
+## 4. Article Title
+
+You can choose how your article title is created.
+
+### Options
 
 | Option | Description |
 |--------|-------------|
-| **Recommended title** | nBlick can suggest a title based on popular pages for your prompts. Use this when you want a title that works well for search. |
-| **Custom title** | Type your own title in the **Title** box (for example *"Write a title…"*) when you want to choose the headline yourself. |
+| **Recommended Title** | Automatically generated based on high-performing content related to your prompts. |
+| **Custom Title** | Manually enter your own title in the Title field. |
 
-Pick the option that works best for you.
+If you are unsure, start with the recommended title.
 
-## Summary
+## Final Step: Generate
 
-1. **Category** — Pick a category so you see the right prompts.
-2. **Prompts** — Pick one or more prompts for the main ideas.
-3. **Content Settings** — Set the platform, language, word count, and any extra information.
-4. **Article Title** — Use a suggested title or type your own.
+Once all sections are completed:
 
-When everything is set, run the generator to create your article.
+Click **Generate**.
+
+nBlick will create a structured and optimized article based on:
+
+- Selected category  
+- Chosen prompts  
+- Language and word range  
+- Additional instructions  
+
+You can then review, edit, and publish the content.
+
+## Quick Summary
+
+- **Category**:Choose your main topic  
+- **Prompts**: Select the questions or themes to target  
+- **Settings**: Configure language, length, and instructions  
+- **Title**: Use a suggested or custom headline  
+- **Generate**: Create your article 

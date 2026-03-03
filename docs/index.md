@@ -1,6 +1,6 @@
 # Welcome to nBlick Documentation
 
-Welcome to the official documentation for **nBlick** — the AI Brand Visibility platform built for the LLM era.
+Welcome to the official documentation for **nBlick** : the AI Brand Visibility platform built for the LLM era.
 
 As search shifts from Google to AI assistants like **ChatGPT, Gemini, Perplexity, Claude, Mistral, DeepSeek, and others**, brands face a new question:
 
@@ -18,7 +18,7 @@ Customers now ask AI:
 - "Compare Brand A vs Brand B"
 - "What are alternatives to Z?"
 
-If your brand isn't mentioned — or is mentioned incorrectly — you're invisible.
+If your brand isn't mentioned : or is mentioned incorrectly : you're invisible.
 
 nBlick helps brands and companies:
 
@@ -48,8 +48,8 @@ Every day, we generate queries, collect responses, and transform them into struc
 
 nBlick runs automated analysis pipelines daily to compute:
 
-- **Brand Mention Rate** — How often your brand appears
-- **Share of AI Voice** — Visibility vs competitors
+- **Brand Mention Rate** : How often your brand appears
+- **Share of AI Voice** : Visibility vs competitors
 - **Sentiment & Positioning Signals**
 - **Category Association Trends**
 - **Ranking Presence in AI Recommendations**
