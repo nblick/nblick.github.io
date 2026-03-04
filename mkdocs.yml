@@ -65,9 +65,17 @@ extra_css:
 
 nav:
   - Welcome: index.md
+  - Get Started with nBlick:
+      - Intro to nBlick: get started with nBlick/intro to nBlick.md
+      - Quickstart Guide: get started with nBlick/quickstart guide.md
   - Personas:
       - Prompts Overview: personas/personas-overview.md
   - Metrics:
       - Metrics Overview: metrics/metrics-overview.md
   - Content Creation:
       - Content Generation: content creation/content-generation.md
+  - Strategy:
+      - Optimization Workflow: strategy/optimization wokflow.md
+
+  - Misc:
+      - Sidebar Navigation: Misc/side bar navigation.md
